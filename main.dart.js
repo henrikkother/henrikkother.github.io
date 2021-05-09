@@ -53112,12 +53112,12 @@ E.YT.prototype={
 $1:function(a){return B.a6R(this.a.d[this.b])},
 $S:107}
 F.ro.prototype={
-aL:function(){var s="assets/cookingBuddy.PNG",r=P.aV(255,238,108,77),q=H.c([new Q.kY(s,"cookingBuddyDetail.PNG","Cooking Buddy","Cooking Buddy is a mobile cross-platform application for finding great cooking recipes. The main goal is to reduce the waste of food in every kitchen. Therefore, the app offers the ability to find specific recipes to use up leftover ingredients. \n \nOn top, Cooking Buddy features a modern design and a responsive UI. To achieve this, the App is build on Dart and Googles Flutter UI-toolkit - which makes it possible to simultaneously develop for IOS and Android. The backend uses an custom SQLite database. ","Reduce your wasted food."),new Q.kY(s,"","GeoGuide","null","Support hearing-impaired people."),new Q.kY("assets/DroneLog.PNG","DroneLogDetail.png","DroneLog","DroneLog ","Log your drone flights."),new Q.kY("assets/SSP.PNG","","RPS Agend","null","AI based rock-paper-scissors.")],t.AD)
-r=new F.G5(r,C.ir,C.f,q,C.n)
-r.Q=0
-r.x=new L.qz(q,null)
-r.y=new E.qI(q,null)
-return r}}
+aL:function(){var s=P.aV(255,238,108,77),r=H.c([new Q.kY("cookingBuddy.png","cookingBuddyDetail.PNG","Cooking Buddy","Cooking Buddy is a mobile cross-platform application for finding great cooking recipes. The main goal is to reduce the waste of food in every kitchen. Therefore, the app offers the ability to find specific recipes to use up leftover ingredients. \n \nOn top, Cooking Buddy features a modern design and a responsive UI. To achieve this, the App is build on Dart and Googles Flutter UI-toolkit - which makes it possible to simultaneously develop for IOS and Android. The backend uses an custom SQLite database. ","Reduce your wasted food."),new Q.kY("assets/cookingBuddy.png","","GeoGuide","null","Support hearing-impaired people."),new Q.kY("assets/DroneLog.PNG","DroneLogDetail.png","DroneLog","DroneLog ","Log your drone flights."),new Q.kY("assets/SSP.PNG","","RPS Agend","null","AI based rock-paper-scissors.")],t.AD)
+s=new F.G5(s,C.ir,C.f,r,C.n)
+s.Q=0
+s.x=new L.qz(r,null)
+s.y=new E.qI(r,null)
+return s}}
 F.G5.prototype={
 DH:function(){var s=this
 s.Q=0
